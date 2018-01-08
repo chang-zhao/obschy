@@ -1,10 +1,9 @@
 # Obschy
 
-[(EN:) The project for our common self-development.](#en)
+[(EN:) The project for our common self-development.](#preamble)
 
-[(RU:) Проект для нашего общего саморазвития.](#ru)
+[(RU:) Проект для нашего общего саморазвития.](#Преамбула)
 
-<a href="#en"></a>
 ## Preamble
 
 Obschy (in Russian: _общий_) means _common_. The key idea of this project is:
