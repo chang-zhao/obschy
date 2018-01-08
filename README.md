@@ -2,11 +2,11 @@
 
 [(EN:) The project for our common self-development.](#preamble)
 
-[(RU:) Проект для нашего общего саморазвития.](#Преамбула)
+[(RU:) Проект для нашего общего саморазвития.](#Общий)
 
 ## Preamble
 
-Obschy (in Russian: _общий_) means _common_. The key idea of this project is:
+**Obschy** (in Russian: _общий_) means _common_. The key idea of this project is:
 
 **Improve your life by improving the life of all.**
 
@@ -87,7 +87,7 @@ Thus here are some ideas:
 
 ## Technical Information
 
-The web site could be done on PHP7 + MySQL (PDO), though other options could be considered.
+The web site could be done on PHP7 + MySQL (PDO), though other options could be considered (Rails+Redis+Postgres? Python?).
 
 ## Invitation
 
@@ -123,7 +123,8 @@ See the ["Open Mind License"](LICENSE.md).
 
 -- The project is started and currently maintained by Alex Constant Illumination (Chang Zhao). Contact: https://zen-do.ru/write
 
-<a href="#ru"></a>
+# Общий
+
 ## Преамбула
 
 Русская версия будет здесь.
