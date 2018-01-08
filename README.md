@@ -36,7 +36,9 @@ Currently two work languages are planned: Russian and English.
 
 Please join us.
 
-Regard your work on this project as your practice from your own heart. Then:
+Regard your work on this project as your practice from your own heart.
+
+Then:
 
   * it's easy to develop caring attitude, which brings happiness in your life.
   * Success or defeat will not bother you - either of them is just a learning experience.
@@ -62,10 +64,9 @@ That could efficiently help many people with various life experiences.
 
 A special mechanism of the web site ("it's own engine", as programmers say) should provide:
 
-  - handy search and structuring information by topics, linking related tasks and concepts.
-  - Users could choose the most relevant topics and arrange them on their personal "desktops".
-  - We could track our practices and aims;
-  - and realize their interrelations.
+  * handy search, structuring information by topics, allowing to link related tasks and concepts.
+  * Users could choose the most relevant topics and arrange them on their personal Desktops.
+  * We could track our practices and aims; study their relations etc.
 
 The functionality should include Wiki (collective gathering and editing of information) and a public "Q & A" engine, so that people could discuss and develop our opportunities.
 
@@ -81,19 +82,19 @@ Thus here are some ideas:
 
 (4) Focus discussions on the three pillars:
 
-- problem,
-- its cognition,
-- practices to solve it.
+  * problem,
+  * its cognition,
+  * practices to solve it.
 
 ## Technical Information
 
-The web site could be done on PHP7 + MySQL (PDO), though other options could be considered (Rails+Redis+Postgres? Python?).
+The web site could be done on PHP7 + MySQL (PDO), though other options could be considered (Rails + Redis + Postgres? Python?).
 
 ## Invitation
 
 If anyone wants to participate - with ideas, materials, working on the web site, anything else - please don't be shy.
 
-It's an "open source" project, public domain, which might be used by everyone for free, and which would be developed by self-organizing community.
+It's an "open source" project, public domain, which might be used by everyone for free, and being developed by self-organizing community.
 
 No advertisements.
 
@@ -113,15 +114,19 @@ See the ["Open Mind License"](LICENSE.md).
 **Next:**
 
   * Register and set up a domain.
-  * Open a forum for work discussion, for gathering people, materials, ideas etc.
-  * Program and deploy for testing the site functions:
-    * Register and login.
-    * Show, edit, save texts.
-    * Navigate pages, connect and sort them etc.
-    * Create personal pages and "desktops" for users; with different settings for public/private info.
-    * etc.
+  * Open a forum to discuss work, to gather people, materials, ideas etc.
+  * Program the site functions and deploy them for testing:
+    * Register users, login etc.
+    * Show, edit, save texts and attributes.
+    * Navigate pages, connect them, sort them etc.
+    * Settings for UI (User Interface), templates.
+    * Create Personal Pages and Desktops for users; with different settings for public/private info.
+    * Q & A, voting, moderation tools.
+    * ...and so on.
 
 -- The project is started and currently maintained by Alex Constant Illumination (Chang Zhao). Contact: https://zen-do.ru/write
+
+----
 
 # Общий
 
