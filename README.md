@@ -102,7 +102,7 @@ Solely for the sake of improvement of your own life through improvement of the l
 
 ## Legal
 
-See the ["Open Heart License"](LICENSE.md).
+The usage of the project is licensed by the ["Open Heart License"](LICENSE.md), and software components used together with this project can have their own licenses (for example, programming language PHP has "PHP License", and so on).
 
 ## Changelog and To Do
 
@@ -228,7 +228,7 @@ _(Одна из основных проблем – как обеспечить 
 
 ## Законность
 
-См. ["Лицензию открытого сердца"](LICENSE.md).
+Использование этого проекта разрешено по ["Лицензии открытого сердца"](LICENSE.md), и вместе с ним могут использоваться компоненты программного обеспечения со своими собственными лицензиями (например, у языка PHP "Лицензия PHP" и т.д.).
 
 ## Список изменений и Что сделать
 
