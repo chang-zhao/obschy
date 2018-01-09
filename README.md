@@ -4,7 +4,7 @@
 
 ## Preamble
 
-**Obschy** (in Russian: _общий_) means _common_. The key idea of this project is:
+**Obschy** (in Russian: _общий_) means _common, joint_. The key idea of this project is:
 
 **Improve your life by improving the life of all.**
 
