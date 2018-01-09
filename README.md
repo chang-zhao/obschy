@@ -1,7 +1,5 @@
 # Obschy
 
-[(EN:) The project for our common self-development.](#preamble)
-
 [(RU:) Проект для нашего общего саморазвития.](#Общий)
 
 ## Preamble
