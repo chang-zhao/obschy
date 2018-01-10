@@ -1,8 +1,26 @@
-[(RU:) Кодекс поведения](#Кодекс_поведения)
+[(RU:) Кодекс поведения](#Кодекс-поведения)
 
 # Code of conduct
 
-The English version will be here.
+We participate in common work, and we want to do that in open and hospitable environment, cozy for all.
+
+Thus we will refrain from offenses, rudeness, haughtiness and disrespect.
+
+We understand that particularities of any person come from certain causes, and there were previous causes for those, and so on, and those chains of causes stretch into unobservable past. Therefore, regardless of how we assess ourselves and others, highly or lowly, all virtues and faults are rooted in something far beyond the borders of our personalities.
+
+So we accept present conditions and do not bash neither ourselves nor others, but just look for opportunities to develop.
+
+With care and kindness we give advice on conduct, if we feel that we really can help. And when others sincerely wish to help, we gratefully accept that.
+
+Beyond any action some originally useful intention can be found, regardless of how unskillfully it manifested. Therefore in case of disagreements and dissatisfaction we strive to understand the causes of human behavior and to find everywhere a useful grain.
+
+We refrain from hastiness, indolence and fuss.
+
+Becoming liberated from worries, we can feel joy of the very same life that we want to live.
+
+And if your opportunities to solve a problem will not suffice, address the project coordinators:
+
+https://zen-do.ru/write - Alex Constant Illumination (Chang Zhao).
 
 # Кодекс поведения
 
