@@ -1,4 +1,4 @@
-[(RU:) Кодекс поведения](#Кодекс-поведения)
+[(RU:) Правила поведения](#Правила-поведения)
 
 # Code of conduct
 
@@ -22,7 +22,7 @@ And if your opportunities to solve a problem will not suffice, address the proje
 
 https://zen-do.ru/write - Alex Constant Illumination (Chang Zhao).
 
-# Кодекс поведения
+# Правила поведения
 
 Мы участвуем в совместной работе и хотим это делать в открытой и гостеприимной атмосфере, уютной для всех.
 
