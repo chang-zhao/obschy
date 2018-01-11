@@ -112,7 +112,7 @@ Solely for the sake of improvement of your own life through improvement of the l
 
   * 💮 A cheap hosting – found.
   * 💮 Github repository (for programmers and for general discussion) – [created](https://github.com/chang-zhao/obschy).
-  * 💮 Register and set up a domain – done: http://obschy.ru.
+  * 💮 Register and set up a domain – done: https://obschy.ru.
 
 **Next:**
 
@@ -242,7 +242,7 @@ _(Одна из основных проблем – как обеспечить 
 
   * 💮 Дешёвый хостинг – нашли.
   * 💮 Для программирования и общего обсуждения – раздел на Гитхабе [создан](https://github.com/chang-zhao/obschy).
-  * 💮 Зарегистрировать домен – готово: http://obschy.ru.
+  * 💮 Зарегистрировать домен – готово: https://obschy.ru.
 
 **Дальше:**
 
