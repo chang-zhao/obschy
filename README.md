@@ -100,15 +100,19 @@ Not for the sake of commercial gains.
 
 Solely for the sake of improvement of your own life through improvement of the life of all.
 
-## Legal
+## Useful Links
 
-The usage of the project is licensed by the ["Open Heart License"](LICENSE.md), and software components used together with this project can have their own licenses (for example, programming language PHP has "PHP License", and so on).
+**[How to Contribute](CONTRIBUTE.md)**
+
+**[Code of Conduct](CODE-OF-CONDUCT.md)**
+
+**Permission to Copy:** The usage of the project is licensed by the ["Open Heart License"](LICENSE.md), and software components used together with this project can have their own licenses (for example, programming language PHP has "PHP License", and so on).
 
 ## Changelog and To Do
 
   * 💮 A cheap hosting – found.
   * 💮 Github repository (for programmers and for general discussion) – [created](https://github.com/chang-zhao/obschy).
-  * 💮 Register and set up a domain – done: https://obschy.ru (DNS records will take a few days to settle).
+  * 💮 Register and set up a domain – done: http://obschy.ru.
 
 **Next:**
 
@@ -226,15 +230,19 @@ _(Одна из основных проблем – как обеспечить 
 
 Только для улучшения собственной жизни через улучшение жизни всех.
 
-## Законность
+## Полезные ссылки
 
-Использование этого проекта разрешено по ["Лицензии открытого сердца"](LICENSE.md), и вместе с ним могут использоваться компоненты программного обеспечения со своими собственными лицензиями (например, у языка PHP "Лицензия PHP" и т.д.).
+**[Как внести вклад](CONTRIBUTE.md#Как-внести-вклад)**
+
+**[Правила поведения](CODE-OF-CONDUCT.md#Правила-поведения)**
+
+**Разрешение копировать**: Использование этого проекта разрешено по ["Лицензии открытого сердца"](LICENSE.md#Лицензия-открытого-сердца), и вместе с ним могут использоваться компоненты программного обеспечения со своими собственными лицензиями (например, у языка PHP "Лицензия PHP" и т.д.).
 
 ## Список изменений и Что сделать
 
   * 💮 Дешёвый хостинг – нашли.
   * 💮 Для программирования и общего обсуждения – раздел на Гитхабе [создан](https://github.com/chang-zhao/obschy).
-  * 💮 Зарегистрировать домен – готово: https://obschy.ru (записям DNS понадобится несколько дней на изменение по всему интернету, и адрес заработает).
+  * 💮 Зарегистрировать домен – готово: http://obschy.ru.
 
 **Дальше:**
 
