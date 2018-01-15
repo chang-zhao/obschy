@@ -113,10 +113,10 @@ Solely for the sake of improvement of your own life through improvement of the l
   * 💮 A cheap hosting – found.
   * 💮 Github repository (for programmers and for general discussion) – [created](https://github.com/chang-zhao/obschy).
   * 💮 Register and set up a domain – done: https://obschy.ru.
+  * 💮 A forum is created to discuss work, to gather people, materials, ideas etc.: https://forum.obschy.ru/
 
 **Next:**
 
-  * Open a forum to discuss work, to gather people, materials, ideas etc.
   * Program the site functions and deploy them for testing:
     * Register users, login etc.
     * Show, edit, save texts and attributes.
@@ -243,10 +243,10 @@ _(Одна из основных проблем – как обеспечить 
   * 💮 Дешёвый хостинг – нашли.
   * 💮 Для программирования и общего обсуждения – раздел на Гитхабе [создан](https://github.com/chang-zhao/obschy).
   * 💮 Зарегистрировать домен – готово: https://obschy.ru.
+  * 💮 Открыт форум для обсуждения работы, для сбора людей, материалов, идей и пр.: https://forum.obschy.ru/
 
 **Дальше:**
 
-  * Открыть форум для обсуждения работы, для сбора людей, материалов, идей и пр.
   * Программировать функции сайта и выкладывать их для проверки:
     * Регистрация, логин и т.д.
     * Показ, редактирование, сохранение текста и его свойств.
