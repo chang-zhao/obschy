@@ -90,7 +90,7 @@ Thus here are some ideas:
 
 ## Technical Information
 
-The web site is being done in Javascript (Node.ja + Koa + MongoDB).
+The web site is being done in Javascript: Node.js (+ Koa) + MongoDB (+ Redis for sessions).
 
 ## Invitation
 
@@ -222,7 +222,7 @@ _(Одна из основных проблем – как обеспечить 
 
 ## Техническая информация
 
-Сайт делается на Javascript (Node.ja + Koa + MongoDB).
+Сайт делается на Javascript: Node.js (+ Koa) + MongoDB (+ Redis for sessions).
 
 ## Приглашение
 
