@@ -2,6 +2,10 @@
 
 [(RU:) Проект для нашего общего саморазвития.](#Общий)
 
+[Правила сайта](https://github.com/chang-zhao/obschy/blob/master/RULES-RU.md)
+
+[Site Rules](https://github.com/chang-zhao/obschy/blob/master/RULES-EN.md)
+
 ## Preamble
 
 **Obschy** (in Russian: _общий_) means _common, joint_. The key idea of this project is:
