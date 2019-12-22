@@ -90,7 +90,7 @@ Thus here are some ideas:
 
 ## Technical Information
 
-The web site could be done on PHP7 + MySQL (PDO), though other options could be considered (Rails + Redis + Postgres? Python?).
+The web site is being done in Javascript (Node.ja + Koa + MongoDB).
 
 ## Invitation
 
@@ -117,7 +117,7 @@ Solely for the sake of improvement of your own life through improvement of the l
   * 💮 A cheap hosting – found.
   * 💮 Github repository (for programmers and for general discussion) – [created](https://github.com/chang-zhao/obschy).
   * 💮 Register and set up a domain – done: https://obschy.ru.
-  * 💮 A forum is created to discuss work, to gather people, materials, ideas etc.: https://forum.obschy.ru/
+  * 💮 Use «Issues» here to discuss this work, to gather people, materials, ideas etc.
 
 **Next:**
 
@@ -220,7 +220,7 @@ _(Одна из основных проблем – как обеспечить 
 
 ## Техническая информация
 
-Сайт можно делать на PHP7 + MySQL (PDO), хотя можно подумать и о других вариантах (Rails + Redis + Postgres? Python?).
+Сайт делается на Javascript (Node.ja + Koa + MongoDB).
 
 ## Приглашение
 
@@ -247,7 +247,7 @@ _(Одна из основных проблем – как обеспечить 
   * 💮 Дешёвый хостинг – нашли.
   * 💮 Для программирования и общего обсуждения – раздел на Гитхабе [создан](https://github.com/chang-zhao/obschy).
   * 💮 Зарегистрировать домен – готово: https://obschy.ru.
-  * 💮 Открыт форум для обсуждения работы, для сбора людей, материалов, идей и пр.: https://forum.obschy.ru/
+  * 💮 Открывайте новые комментарии в разделе «Проблемы» («Issues») здесь для обсуждения этой работы, сбора людей, материалов, идей и пр.
 
 **Дальше:**
 
