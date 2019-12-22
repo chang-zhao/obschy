@@ -110,6 +110,8 @@ Solely for the sake of improvement of your own life through improvement of the l
 
 **[Code of Conduct](CODE-OF-CONDUCT.md)**
 
+**[Site Rules](https://github.com/chang-zhao/obschy/blob/master/RULES-EN.md)**
+
 **Permission to Copy:** The usage of the project is licensed by the ["Open Heart License"](LICENSE.md), and software components used together with this project can have their own licenses (for example, programming language PHP has "PHP License", and so on).
 
 ## Changelog and To Do
@@ -239,6 +241,8 @@ _(Одна из основных проблем – как обеспечить 
 **[Как внести вклад](CONTRIBUTE.md#Как-внести-вклад)**
 
 **[Правила поведения](CODE-OF-CONDUCT.md#Правила-поведения)**
+
+**[Правила сайта](https://github.com/chang-zhao/obschy/blob/master/RULES-RU.md)**
 
 **Разрешение копировать**: Использование этого проекта разрешено по ["Лицензии открытого сердца"](LICENSE.md#Лицензия-открытого-сердца), и вместе с ним могут использоваться компоненты программного обеспечения со своими собственными лицензиями (например, у языка PHP "Лицензия PHP" и т.д.).
 
